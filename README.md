@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/photo_2022-07-27_09-37-07 (1).jpg
+cover: .gitbook/assets/photo_2022-07-27_09-37-07.jpg
 coverY: -297.9148311306902
 ---
 
