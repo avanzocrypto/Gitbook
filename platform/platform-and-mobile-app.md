@@ -44,4 +44,4 @@ Users that are not able to pass kyc will be marked as "spam" and will not be abl
 
 This is concept overview of the app that is being developed, design and functions are changeable along the development process:
 
-![](<../.gitbook/assets/Screenshot (69).png>)
+![Figure "7"](<../.gitbook/assets/Screenshot (69).png>)

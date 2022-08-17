@@ -1,4 +1,4 @@
 # Tokenomics
 
-![](<../.gitbook/assets/Screenshot (67).png>)
+![Figure "6"](<../.gitbook/assets/Screenshot (67).png>)
 
