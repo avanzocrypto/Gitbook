@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/photo_2022-08-15_11-12-28.jpg
-coverY: -30.07342143906021
+cover: .gitbook/assets/photo_2022-07-27_09-37-07 (1).jpg
+coverY: -297.9148311306902
 ---
 
 # Avanzo White Paper
