@@ -23,4 +23,3 @@
 ## Platform
 
 * [Platform & Mobile App](platform/platform-and-mobile-app.md)
-* [Copy of Smart Contract Break-Down](platform/copy-of-smart-contract-break-down.md)

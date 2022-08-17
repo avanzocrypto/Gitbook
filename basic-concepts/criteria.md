@@ -6,11 +6,11 @@ Banks offer real estate investing through (reits), while you as an investor got 
 
 #### AVANZO Real Estate Criteria
 
-When it comes to choosing our investments we are tight to strict criteria to make sure that the best opportunity offered to our investors is
+When it comes to choosing our investments we are tight to strict criteria to make sure that the best opportunity offered to our investors is:
 
 * Highest possible ROI & Potential Growth of ROI over time.
 * Location and possible future development reflect property location value positively.
-* value to return ratio ( higher better ).
+* value to return ratio (higher better).
 * Quality of built asset.
-* Running cost to return ratio ( lower better ).
-* Building age to land value ratio ( lower better ).
+* Running cost to return ratio (lower better).
+* Building age to land value ratio (lower better).
