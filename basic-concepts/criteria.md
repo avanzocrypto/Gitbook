@@ -2,15 +2,14 @@
 
 #### Blockchain & Bank investing pros & cons
 
-Banks offer real estate investing through (reits), while you as an investor got no control over your own money bankers can decide what property they would invest in, decide your payment method, and transactions are not transparent to investors simply ( you need to believe what story they tell ), on the other hand, blockchain offers a wide range of investing control you can vote on which country the investment would be, chose the property to buy, chose how are you paid, even vote on selling or keeping the property ( you decide the story ) and all transactions are transparent on chain to anyone at any time.
+Banks provide real estate investing through (REITs), but you, the investor, have no control over your own funds. Bankers can choose the property they would invest in, choose your payment method, and transactions are not transparent to investors simply (you need to believe what story they tell). In contrast, blockchain offers a wide range of investing control you can vote on which country the investment would be in, chose the property to buy, chose how are you paid, et cetera.
 
 #### AVANZO Real Estate Criteria
 
-When it comes to choosing our investments we are tight to strict criteria to make sure that the best opportunity offered to our investors is:
+Highest potential ROI & Potential Growth of ROI over Time are the best opportunities we give to our investors, thus when it comes to picking our assets, we adhere strictly to stringent standards.
 
-* Highest possible ROI & Potential Growth of ROI over time.
-* Location and possible future development reflect property location value positively.
-* value to return ratio (higher better).
-* Quality of built asset.
-* Running cost to return ratio (lower better).
-* Building age to land value ratio (lower better).
+* Property location value is positively reflected by location and potential future development.&#x20;
+* The ratio of value to return (higher better).&#x20;
+* Build quality of the asset.&#x20;
+* Operating expense to return ratio (lower better).&#x20;
+* Relation of land value to age of buildings (lower better).
