@@ -4,4 +4,4 @@ Our innovative smart contract provides a variety of options, making the investin
 
 Investors can also choose whether to maintain the investment pool by voting after the annual return is given out.
 
-![Figure "5"](<../.gitbook/assets/Screenshot (65).png>)
+![Figure "5"](../.gitbook/assets/photo\_2022-08-21\_20-36-04.jpg)

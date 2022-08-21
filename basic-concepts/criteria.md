@@ -2,7 +2,7 @@
 
 #### Blockchain & Bank investing pros & cons
 
-Banks provide real estate investing through (REITs), but you, the investor, have no control over your own funds. Bankers can choose the property they would invest in, choose your payment method, and transactions are not transparent to investors simply (you need to believe what story they tell). In contrast, blockchain offers a wide range of investing control you can vote on which country the investment would be in, chose the property to buy, chose how are you paid, et cetera.
+Banks provide real estate investing through (REITs), but you, the investor, have no control over your own funds. Bankers can choose the property they would invest in, choose your payment method, and transactions are not transparent to investors simply (you need to believe what story they tell). In contrast, blockchain offers a wide range of investing control you can vote on which country the investment would be in, chose the property to buy, chose how are you paid.
 
 #### AVANZO Real Estate Criteria
 

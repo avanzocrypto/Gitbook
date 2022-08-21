@@ -2,7 +2,7 @@
 
 #### Description
 
-To enable investors to easily maintain complete control over their portfolios and track performance and returns, The best experience for our investors will be provided by a mobile App that will be developed to interact with the smart contract, as well as deposit and withdraw funds or profits, with 24/7 Support for any type of error partnered with 10clouds top experienced App developing company with blockchain & smart contract background.
+To enable investors to easily maintain complete control over their portfolios and track performance and returns, the best experience for our investors will be provided by a mobile App that will be developed to interact with the smart contract, as well as deposit and withdraw funds or profits, with 24/7 Support for any type of error partnered with 10clouds top experienced App developing company with blockchain & smart contract background.
 
 #### App services
 
@@ -15,7 +15,8 @@ It will be developed on both iOS and Android, granting access to a large user ba
 5. Alerts on new investment proposals and votes on them
 6. Over view of company total invested amount
 7. Monitor company invested countries
-8. In-app wallet " future feature "
+8. In-app wallet " future feature"
+9. Payment services
 
 #### KYC
 

@@ -6,6 +6,6 @@ Despite the volatility of the cryptocurrency market, our first priority at "AVAN
 
 #### Value
 
-Our worth as a firm is derived from the properties we manage. As the number of properties we manage grows, so does our overall revenue. This increases our cash flow power, allowing us to continue growing, developing, and expanding even in the worst market conditions. Figure 4 explains.
+Our worth as a firm is derived from the real estate we manage. As the number of properties we manage grows, so does our overall revenue. This increases our cash flow power, allowing us to continue growing, developing, and expanding even in the worst market conditions. As Figure 4 explains.
 
 ![Figure "4"](<../.gitbook/assets/Screenshot (63).png>)
