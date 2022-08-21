@@ -2,11 +2,11 @@
 
 #### Description
 
-This specific approach for the smart contract targets to make investing solution open to all $AVAN Holders to invest, vote and keep stabilizing the coin, Investors are not allowed to fill more than 5% of total pool value for each address and each pool, preventing whale power on DAO voting, giving power to investors equally "preventing manipulation".
+This particular approach for the smart contract aims to open up the investing solution to all $AVAN Holders so that they can invest, vote, and maintain the stability of the token. Investors are not allowed to fill more than 5% of the total pool value for each address and each pool, preventing whale power on DAO voting and "preventing manipulation" by giving investors equal power.
 
 #### New Proposal
 
-In our provided smart contract coding we could see how investing proposals are created:
+We were able to examine how investing suggestions are made in the smart contract coding we provided:
 
 ```solidity
 function createProposal(uint256 _end, string calldata _proposal) public onlyOwner{
@@ -14,7 +14,7 @@ function createProposal(uint256 _end, string calldata _proposal) public onlyOwne
 
 #### DAO voting
 
-we got "3" DAO voting for each pool to make sure that investors have full control over their investment decisions code line example:
+To ensure that investors have complete power over their investment decisions, we have "3" DAO voting for each pool. code line illustration
 
 <pre class="language-solidity"><code class="lang-solidity">function vote(uint256 _proposal, bool _YesOrNo) public {
     struct Vote {
@@ -26,12 +26,11 @@ we got "3" DAO voting for each pool to make sure that investors have full contro
 </strong>    mapping(uint256 => Vote) proposals; //id to proposal
     mapping(address => mapping(uint256 => bool)) hasVoted; //if user has voted on 
 proposal
-    uint256 runningProposals; // latest proposal id
-</code></pre>
+    uint256 runningProposals; // latest proposal id</code></pre>
 
 #### Fund Raising
 
-All funds are being transacted using the smart contract to keep records tight to address and also to send annual returns later on to same address:
+To keep records accurate and to send annual returns to the same address in the future, all are transferred via smart contracts:
 
 ```solidity
 function getInvestedIdsOf(address _add) public view returns(uint256[] memory _ids) {
@@ -44,18 +43,3 @@ function getInvestedIdsOf(address _add) public view returns(uint256[] memory _id
         }
     }
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

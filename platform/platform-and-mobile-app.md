@@ -2,13 +2,11 @@
 
 #### Description
 
-To make it easy for investors to have full control of their investments & monitor performance and returns, A mobile app will be developed to interact with the smart contract, also deposit & withdraw funds or profits, with 24/7 Support for any type of error partnered with top experienced app developing company with blockchain & smart contract background, delivering the best experience for our investors.
+To enable investors to easily maintain complete control over their portfolios and track performance and returns, The best experience for our investors will be provided by a mobile App that will be developed to interact with the smart contract, as well as deposit and withdraw funds or profits, with 24/7 Support for any type of error partnered with 10clouds top experienced App developing company with blockchain & smart contract background.
 
 #### App services
 
-
-
-It will be built on both IOS/ANDROID, giving access to wide range of users also being able to connect wallets for example (Metamask , trustwallet , etc…) also the ability to connect your hard wallets, you will be able to use the following services :
+It will be developed on both iOS and Android, granting access to a large user base and allowing them to link wallets, such as Metamask, trustwallet, etc. You will be able to access the following services, as well as the capability to link your hard wallets:
 
 1. Deposit/Withdraw
 2. DAO voting
@@ -21,11 +19,11 @@ It will be built on both IOS/ANDROID, giving access to wide range of users also 
 
 #### KYC
 
-Each user must provide a KYC " know your client " to provide security and future recovery.
+Because it is real estate investments, some governments will request KYCs of the investors for some regulation as they say (To ensure security and prevent money laundering) Therefore, we have to ask the investors to provide KYC (know your client) form.
 
 #### Security
 
-Each user will be able to have multiple layers of security on their account.
+Multiple levels of security will be available for each user's account.
 
 * Email Sign up
 * Mobile number linking
@@ -34,14 +32,10 @@ Each user will be able to have multiple layers of security on their account.
 
 #### Personal information
 
-Your personal information is protected by firewalls and is stored and processed in secure data centers with restricted access and tight controls. All data passed between AVANZO, our servers, and third parties is protected by 2048-bit SSL encryption.
-
-#### Spam
-
-Users that are not able to pass kyc will be marked as "spam" and will not be able to use the services unless issue was solved thro support team, Each email will be tight to one single account, Each mobile number will be tight to one single account.
+Firewalls safeguard your personal data while it is processed, stored, and accessed in secure data centers under stringent access and control procedures. 2048-bit SSL encryption is used to safeguard any data transferred between AVANZO, our servers, and other parties.
 
 #### APP overview
 
-This is concept overview of the app that is being developed, design and functions are changeable along the development process:
+This is an overview of the app's conceptual features; the design and functionalities may change while it is being built.
 
 ![Figure "7"](<../.gitbook/assets/Screenshot (69).png>)

@@ -1,6 +1,7 @@
 # Execution
 
-Our unique smart contract that has been developed offers a wide range of possibilities, making the investment process fast, easy, and secure as all transactions are public on-chain, Giving the power to investors to choose what type of property they would like to invest in using DAO voting, even choosing the country that we target for our next investments not to mention that investors also can choose what type of coin their annual return gets paid when 50% of investing pools will give annual return tight to $AVAN token to provide buying pressure on the coin, while the other 12 50% can be voted to pay returns on (BTC, ETH, BNB, etc…), also investors have the ability to vote after annual return get paid out to either keep the investment pool by voting ( 50%\<yes ) or to sell the property and pay back the investors their initial investment amounts if voted ( 50%\<No) this way we make sure that investors are involved deciding the future of their investment, this is explained in figure "5".
+Our innovative smart contract provides a variety of options, making the investing process quick, simple, and safe because all transactions are public on-chain, allowing investors to select the sort of property they want to invest in through DAO voting, as well as the nation we want to invest in next, Not to add, investors have the option to pick the type of currency on which their yearly return is given. For example, 50% of investment pools will provide tight annual returns on the $AVAN token to encourage buying, while the remaining can choose to pay returns on (BTC, ETH, BNB, etc.).
+
+Investors can also choose whether to maintain the investment pool by voting after the annual return is given out.
 
 ![Figure "5"](<../.gitbook/assets/Screenshot (65).png>)
-
