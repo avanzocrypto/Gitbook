@@ -1,6 +1,6 @@
 # Ownership
 
-#### Investors Ownership Of Property
+#### Investors' Ownership Of Property
 
 In order to verify ownership of a property after investing in real estate, a significant quantity of paperwork is required. At Avanzo, we are creating a new contractual system with NFTs that is tied to a property and will revolutionize the real estate market.
 
@@ -10,7 +10,7 @@ On the open internet, proving ownership of something is probably difficult, but 
 
 #### Avanzo Contracting system leveraging NFTs
 
-We are creating a system where NFTs (Non-Fungible Tokens) represent your ownership of the asset you have invested in, together with its current holding percentage.
+We are creating a system where NFTs (Non-Fungible Tokens) represents your ownership of the asset you have invested in, together with its current holding percentage.
 
 #### Transfer Of Ownership
 

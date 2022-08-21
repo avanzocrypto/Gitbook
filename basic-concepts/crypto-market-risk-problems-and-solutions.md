@@ -4,11 +4,11 @@ Despite the enormous volatility, which may sometimes look wonderful when it's po
 
 #### Whales
 
-The high volatility in the bitcoin market is by far the largest problem. On exchange platforms, the prices of cryptocurrencies fluctuate sharply over a brief period of time. The market is considered to be very volatile when an asset that may be traded might fall by as much as 49% in less than 24 hours. Although there are several factors that contribute to the market's extreme volatility, "whales" actions may be the greatest one.
+The high volatility in the bitcoin market is by far the largest problem. On exchange platforms, the prices of cryptocurrencies fluctuate sharply over a brief period of time. The market is considered to be very volatile when an asset that may be traded might fall by as much as 49% in less than 24 hours. Although several factors contribute to the market's extreme volatility, "whales" actions may be the greatest ones.
 
 #### Utility
 
-Many projects "die" in protracted bad markets as a result of teams being unable to deliver their development goals owing to a lack of financing. This is especially true with currencies that are constructed without any form of usefulness or techniques to maintain developing in the harshest market scenarios. To put it simply, the $AVAN token has the usefulness of being used as a ticket to real estate investments, plus you will get 50% of the real estate returns.
+Many projects "die" in protracted bad markets as a result of teams being unable to deliver their development goals owing to a lack of financing. This is especially true with currencies that are constructed without any form of usefulness or techniques to maintain development in the harshest market scenarios. To put it simply, the $AVAN token has the usefulness of being used as a ticket to real estate investments, plus you will get 50% of the real estate returns.
 
 #### Pyramid Scaling Projects
 
@@ -16,7 +16,7 @@ If new people joined the project, of course, this issue is that at some point th
 
 ![Figure "3"](<../.gitbook/assets/Screenshot (61).png>)
 
-As can be seen, older investors gain more, and there is a greater chance that fresher investors will be dropped, as opposed to "first come, first serve,". Avanzo operates differently because investors' money is completely safe because it is invested in real estate, and they receive an annual return from the property's profits. In addition, if investors choose to sell their real estate and receive their initial investment back, that option is completely acceptable as long as the DAO earns more than 50%.
+As can be seen, older investors gain more, and there is a greater chance that fresher investors will be dropped, as opposed to "first come, first serve,". Avanzo operates differently because investors' money is completely safe. After all, it is invested in real estate, and they receive an annual return from the property's profits. In addition, if investors choose to sell their real estate and receive their initial investment back, that option is completely acceptable as long as the DAO earns more than 50%.
 
 #### Consistency
 

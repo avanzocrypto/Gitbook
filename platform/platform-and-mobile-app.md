@@ -11,11 +11,11 @@ It will be developed on both iOS and Android, granting access to a large user ba
 1. Deposit/Withdraw
 2. DAO voting
 3. Monitor your investments & profits
-4. Monitor coins of your choice from market
-5. Alerts on new investing proposals and vote on them
+4. Monitor coins of your choice from the market
+5. Alerts on new investment proposals and votes on them
 6. Over view of company total invested amount
 7. Monitor company invested countries
-8. In app wallet " future feature "
+8. In-app wallet " future feature "
 
 #### KYC
 
