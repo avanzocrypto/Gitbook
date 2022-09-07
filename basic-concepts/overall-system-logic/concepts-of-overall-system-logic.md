@@ -1,6 +1,6 @@
 # Concepts of Overall System Logic
 
-#### A "store of value" selection&#x20;
+#### A "store of value" Selection&#x20;
 
 Although gold is regarded as the best "store of wealth," its return on investment (ROI) performance is the lowest. The goal at AVANZO is to choose the right investment asset to have a solid "store of value" and ROI, or return on investment. Real estate has long been thought of as the best investment option, but it can also be risky. For this reason, we have criteria at AVANZO that we adhere to when choosing our next investment, in order to provide the best opportunities to our investors and the possibility of a higher ROI over time and a solid store of value.
 
