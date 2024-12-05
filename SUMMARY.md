@@ -1,18 +1,29 @@
 # Table of contents
 
+## INTRODUCTION
+
 * [Avanzo White Paper](README.md)
+* [Introduction](introduction/introduction.md)
 
 ## Basic Concepts
 
-* [Introduction](basic-concepts/introduction.md)
 * [Overall System Logic](basic-concepts/overall-system-logic.md)
 * [Concepts of Overall System Logic](basic-concepts/concepts-of-overall-system-logic.md)
-* [Real Estate investing benefits](basic-concepts/real-estate-investing-benefits.md)
-* [Criteria](basic-concepts/criteria.md)
-* [Crypto Market Risk Problems & AI-Powered Solutions](basic-concepts/crypto-market-risk-problems-and-solutions.md)
-* [Ownership and AI-Enhanced Solutions](basic-concepts/ownership.md)
-* [Avanzo Solutions](basic-concepts/avanzo-solutions.md)
-* [AI-Driven Investment Process](basic-concepts/execution.md)
+
+## CRITERIA & BENEFITS&#x20;
+
+* [Real Estate investing benefits](criteria-and-benefits/real-estate-investing-benefits.md)
+* [Criteria](criteria-and-benefits/criteria.md)
+
+## RISKS & OWNERSHIP
+
+* [Crypto Market Risk Problems & AI-Powered Solutions](risks-and-ownership/crypto-market-risk-problems-and-solutions.md)
+* [Ownership and AI-Enhanced Solutions](risks-and-ownership/ownership.md)
+
+## AVANZO SOLUTION&#x20;
+
+* [Avanzo Solutions](avanzo-solution/avanzo-solutions.md)
+* [AI-Driven Investment Process](avanzo-solution/execution.md)
 
 ## Smart-Contract
 
