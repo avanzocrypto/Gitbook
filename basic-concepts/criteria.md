@@ -1,15 +1,18 @@
 # Criteria
 
-#### Blockchain & Bank investing pros & cons
+**Blockchain vs. Bank Real Estate Investing: Pros & Cons**
 
-Banks provide real estate investing through (REITs), but you, the investor, have no control over your own funds. Bankers can choose the property they would invest in, choose your payment method, and transactions are not transparent to investors simply (you need to believe what story they tell). In contrast, blockchain offers a wide range of investing control you can vote on which country the investment would be in, chose the property to buy, chose how are you paid.
+Banks offer real estate investments through Real Estate Investment Trusts (REITs), but they grant investors little to no control over their funds. Bankers decide where to invest, how payments are handled, and maintain opaque transaction processes. Conversely, blockchain empowers investors with transparent, democratic control over decisions. At AVANZO, you vote on investment locations, property choices, and payment methods.
 
-#### AVANZO Real Estate Criteria
+AI enhances this by analyzing voting data, recommending options aligned with investor preferences, and ensuring seamless execution of chosen strategies.
 
-Highest potential ROI & Potential Growth of ROI over Time are the best opportunities we give to our investors, thus when it comes to picking our assets, we adhere strictly to stringent standards.
+**AVANZO Real Estate Criteria**
 
-* Property location value is positively reflected by location and potential future development.&#x20;
-* The ratio of value to return (higher better).&#x20;
-* Build quality of the asset.&#x20;
-* Operating expense to return ratio (lower better).&#x20;
-* Relation of land value to age of buildings (lower better).
+To provide the best opportunities, AVANZO adheres to strict standards, supported by AI-driven evaluations:
+
+* **ROI Potential**: AI evaluates historical and predictive ROI trends.
+* **Property Location**: AI analyzes market dynamics, future development potential, and location desirability.
+* **Value-to-Return Ratio**: Higher ratios are prioritized, ensuring better returns.
+* **Build Quality**: AI-assisted inspections assess asset longevity and maintenance costs.
+* **Operating Expense-to-Return Ratio**: AI identifies assets with optimal cost-efficiency.
+* **Land Value-to-Building Age Ratio**: AI compares depreciation trends against market growth potential for informed investment choices.
