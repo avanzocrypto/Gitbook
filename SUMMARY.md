@@ -5,8 +5,8 @@
 ## Basic Concepts
 
 * [Introduction](basic-concepts/introduction.md)
-* [Overall System Logic](basic-concepts/overall-system-logic/README.md)
-  * [Concepts of Overall System Logic](basic-concepts/overall-system-logic/concepts-of-overall-system-logic.md)
+* [Overall System Logic](basic-concepts/overall-system-logic.md)
+* [Concepts of Overall System Logic](basic-concepts/concepts-of-overall-system-logic.md)
 * [Real Estate investing benefits](basic-concepts/real-estate-investing-benefits.md)
 * [Criteria](basic-concepts/criteria.md)
 * [Crypto Market Risk Problems & AI-Powered Solutions](basic-concepts/crypto-market-risk-problems-and-solutions.md)
