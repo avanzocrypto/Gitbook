@@ -9,7 +9,7 @@
   * [Concepts of Overall System Logic](basic-concepts/overall-system-logic/concepts-of-overall-system-logic.md)
 * [Real Estate investing benefits](basic-concepts/real-estate-investing-benefits.md)
 * [Criteria](basic-concepts/criteria.md)
-* [Crypto Market Risk Problems & Solutions](basic-concepts/crypto-market-risk-problems-and-solutions.md)
+* [Crypto Market Risk Problems & AI-Powered Solutions](basic-concepts/crypto-market-risk-problems-and-solutions.md)
 * [Ownership](basic-concepts/ownership.md)
 * [Avanzo Solutions](basic-concepts/avanzo-solutions.md)
 * [Execution](basic-concepts/execution.md)
