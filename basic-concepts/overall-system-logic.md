@@ -6,7 +6,7 @@ description: Blockchain and Real-Life Applications
 
 At AVANZO, we believe blockchain technology should serve real-world needs, bridging the gap between decentralized technology and everyday demands. By incorporating AI into our blockchain platform, we can predict market trends, enhance investment decisions, and maximize returns for users.
 
-Our platform, built on Binance Smart Chain, connects investors globally, offering them full control over their investments, payment methods, and future investment decisions—capabilities not feasible with traditional systems.
+Our platform, connects investors globally, offering them full control over their investments, payment methods, and future investment decisions—capabilities not feasible with traditional systems.
 
 Figure 2 demonstrates the system's workflow:
 
@@ -20,4 +20,4 @@ AI complements this process by forecasting property performance, optimizing inve
 
 Additionally, the DAO model allows investors to choose their payout in their preferred cryptocurrency or a stablecoin pegged to the dollar, adding flexibility and transparency.
 
-![Figure "2"](<../../.gitbook/assets/Screenshot (59).png>)
+![Figure "2"](<../.gitbook/assets/Screenshot (59).png>)
