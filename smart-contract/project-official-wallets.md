@@ -1,6 +1,8 @@
+---
+hidden: true
+---
+
 # Project Official Wallets
-
-
 
 * Team : 0x9cEa56409585DbE34C358e46cE2AdF3413dEC441
 * Private Sale : 0x31D2C2e80FE494F5541fBD614060D37940a9D93C
