@@ -20,10 +20,10 @@
 * [Crypto Market Risk Problems & AI-Powered Solutions](risks-and-ownership/crypto-market-risk-problems-and-solutions.md)
 * [Ownership and AI-Enhanced Solutions](risks-and-ownership/ownership.md)
 
-## AVANZO SOLUTION&#x20;
+## AVANZO SOLUTIONS
 
-* [Avanzo Solutions](avanzo-solution/avanzo-solutions.md)
-* [AI-Driven Investment Process](avanzo-solution/execution.md)
+* [Avanzo Solutions](avanzo-solutions/avanzo-solutions.md)
+* [AI-Driven Investment Process](avanzo-solutions/execution.md)
 
 ## Smart-Contract
 
