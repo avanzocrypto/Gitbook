@@ -10,9 +10,9 @@
 * [Real Estate investing benefits](basic-concepts/real-estate-investing-benefits.md)
 * [Criteria](basic-concepts/criteria.md)
 * [Crypto Market Risk Problems & AI-Powered Solutions](basic-concepts/crypto-market-risk-problems-and-solutions.md)
-* [Ownership](basic-concepts/ownership.md)
+* [Ownership and AI-Enhanced Solutions](basic-concepts/ownership.md)
 * [Avanzo Solutions](basic-concepts/avanzo-solutions.md)
-* [Execution](basic-concepts/execution.md)
+* [AI-Driven Investment Process](basic-concepts/execution.md)
 
 ## Smart-Contract
 

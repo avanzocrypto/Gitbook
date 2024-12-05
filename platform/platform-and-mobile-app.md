@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Platform & Mobile App
 
 #### Description

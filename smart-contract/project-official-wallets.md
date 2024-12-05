@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Project Official Wallets
 
 * Team : 0x9cEa56409585DbE34C358e46cE2AdF3413dEC441
