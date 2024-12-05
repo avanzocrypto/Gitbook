@@ -35,6 +35,6 @@
 
 * [Platform & Mobile App](platform/platform-and-mobile-app.md)
 
-***
+## LEGALS&#x20;
 
-* [Legal Disclaimer](legal-disclaimer.md)
+* [Legal Disclaimer](legals/legal-disclaimer.md)
