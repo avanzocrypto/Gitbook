@@ -8,3 +8,4 @@
 ## المفاهيم الأساسية
 
 * [منطق النظام العام](almfahym-alasasyh/mntq-alnzam-alaam.md)
+* [مفاهيم منطق النظام العام](almfahym-alasasyh/mfahym-mntq-alnzam-alaam.md)
