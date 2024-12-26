@@ -3,3 +3,4 @@
 ## المقدمة
 
 * [الملخص](README.md)
+* [المقدمة](almqdmh/almqdmh.md)
