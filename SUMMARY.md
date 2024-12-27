@@ -19,3 +19,8 @@
 
 * [مشاكل مخاطر سوق العملات الرقمية وحلول الذكاء الاصطناعي](almkhatr-walmlkyh/mshakl-mkhatr-swq-alamlat-alrqmyh-whlwl-althkaa-alastnaay.md)
 * [الملكية وحلول معززة بالذكاء الاصطناعي](almkhatr-walmlkyh/almlkyh-whlwl-mazzh-balthkaa-alastnaay.md)
+
+## حلول أفانزو
+
+* [حلول أفانزو](hlwl-afanzw/hlwl-afanzw.md)
+* [عملية الاستثمار المدعومة بالذكاء الاصطناعي](hlwl-afanzw/amlyh-alastthmar-almdawmh-balthkaa-alastnaay.md)
