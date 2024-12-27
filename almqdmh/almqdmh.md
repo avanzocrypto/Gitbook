@@ -4,4 +4,4 @@
 
 في افانزو، نقوم بتطوير إمكانيات البلوكشين من خلال دمج تقنية الذكاء الاصطناعي التي تقوم بتحليل البيانات المعاملاتية، تحديد مواطن القصور، واقتراح التحسينات. وبذلك، نعمل على تحسين أداء النظام ودعم عملية اتخاذ القرار للمستخدمين.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Figure "1"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Figure "1"</p></figcaption></figure>

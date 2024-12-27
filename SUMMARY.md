@@ -14,3 +14,8 @@
 
 * [فوائد الاستثمار العقاري](almaayyr-walfwaed/fwaed-alastthmar-alaqary.md)
 * [المعايير](almaayyr-walfwaed/almaayyr.md)
+
+## المخاطر والملكية
+
+* [مشاكل مخاطر سوق العملات الرقمية وحلول الذكاء الاصطناعي](almkhatr-walmlkyh/mshakl-mkhatr-swq-alamlat-alrqmyh-whlwl-althkaa-alastnaay.md)
+* [الملكية وحلول معززة بالذكاء الاصطناعي](almkhatr-walmlkyh/almlkyh-whlwl-mazzh-balthkaa-alastnaay.md)

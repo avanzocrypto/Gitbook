@@ -22,4 +22,4 @@
 
 علاوة على ذلك، يتيح نموذج (داو) للمستثمرين اختيار العوائد بالعملة الرقمية المفضلة لديهم أو بعملة مستقرة مرتبطة بالدولار، مما يضيف مرونة وشفافية.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Figure "2"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Figure "2"</p></figcaption></figure>
