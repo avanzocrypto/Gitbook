@@ -24,3 +24,7 @@
 
 * [حلول أفانزو](hlwl-afanzw/hlwl-afanzw.md)
 * [عملية الاستثمار المدعومة بالذكاء الاصطناعي](hlwl-afanzw/amlyh-alastthmar-almdawmh-balthkaa-alastnaay.md)
+
+## الإشعار القانوني
+
+* [معلومات مهمة (الإشعار القانوني)](alishaar-alqanwny/malwmat-mhmh-alishaar-alqanwny.md)
